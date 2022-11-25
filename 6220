@@ -1,0 +1,2 @@
+# Install slim version (default): if you get an error message, run it again
+!pip install pycaret==2.3.6
